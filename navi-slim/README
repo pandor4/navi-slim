@@ -1,0 +1,4 @@
+#This theme is adapted from gentoo_10_blue by yours truly. Stick it in your /usr/share/slim/themes directory and edit your /etc/slim.conf as below
+
+#current_theme	default
+current_theme 	navi-slim
